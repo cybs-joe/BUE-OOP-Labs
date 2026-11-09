@@ -7,7 +7,7 @@ class Employee{
     private:
     string Name;
     int ID;
-    string HireDate;1
+    string HireDate;
 
     public:
     Employee();
